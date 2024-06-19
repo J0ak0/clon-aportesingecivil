@@ -1,5 +1,5 @@
 const index = (req, res) => {
-    res.send('Tareas otro ejemplo')
+    res.render('index')
 }
 
 module.exports = {
