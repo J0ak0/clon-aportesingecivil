@@ -27,6 +27,9 @@
   "express": "^4.19.2",
   
     
+  "express-ejs-layouts": "^2.5.1",
+  
+    
   "node": "^22.3.0"
   
   },
